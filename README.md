@@ -1,0 +1,2 @@
+# Ejercicio-41
+La Universidad quiere tener el registro con la información básica de los docentes del programa de Ingeniería de Sistemas, que visitan semanalmente la sede de Lorica y Sahagún. Entre los datos relevantes que se quiere tener de cada profesor están: la identificación, el nombre del profesor, nombre de la asignatura que dicta y el número telefónico. Implementar las clases necesarias, que permitan registrar la información de cada profesor en un vector de objetos, luego de esto la aplicación permitirá al coordinador realizar operaciones sobre los datos.
